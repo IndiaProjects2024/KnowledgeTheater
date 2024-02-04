@@ -4,8 +4,7 @@ or colleges, and universities.
 
 Playing interactive courses for half day to full day. Ticket price from Rs 100 to Rs 1000.
 
-Scheduling course (conducted in knowledge Theaters) and practical sessions(conducted in University or school premises), exam 
-or test in testing centres using app and accumulating credits for graduation.
+Courses, Practical or Lab Sessions, Course Exams or Tests could be scheduled through online app.
 
 Course content in multiple languages with online access.
 
